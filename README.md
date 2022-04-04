@@ -6,6 +6,6 @@
 
 #### Notes [Section 1-4]
 
-Concept | Definition
---- | --- 
-Strict Egalitarianism | "Every person should have the same level of material goods (including burdens)" [[link]](https://plato.stanford.edu/entries/justice-distributive/)
+Concept | Definition | Justifications | Issues
+--- | --- | --- | ---
+Strict Egalitarianism | "Every person should have the same level of material goods (including burdens)" [[link]](https://plato.stanford.edu/entries/justice-distributive/) | People are morally equal so the distribution of material goods should reflect that. | (1) construction of appropriate indices of measurement (2) specification of time frames 
