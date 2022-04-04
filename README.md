@@ -7,4 +7,5 @@
 #### Notes [Section 1-4]
 
 Concept | Definition
+--- | --- 
 Strict Egalitarianism | "Every person should have the same level of material goods (including burdens)"[link](https://plato.stanford.edu/entries/justice-distributive/)
