@@ -1,8 +1,8 @@
 # Fairness-and-Algorithmic-Decisions [reading list + notes]
 
-**Article #1**: [AI Fairness Isn’t Just an Ethical Issue](https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue) by Greg Satell and Yassmin Abdel-Magied (published on *Oct 20, 2020*)
+**Article (#1)**: [AI Fairness Isn’t Just an Ethical Issue](https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue) by Greg Satell and Yassmin Abdel-Magied (published on *Oct 20, 2020*)
 
-**Article #2**: [Distributive Justice](https://plato.stanford.edu/entries/justice-distributive/) in the Stanford Encyclopedia of Philosophy (published on *Sep 22, 1996*)
+**Article (#2)**: [Distributive Justice](https://plato.stanford.edu/entries/justice-distributive/) in the Stanford Encyclopedia of Philosophy (published on *Sep 22, 1996*)
 
 ##### Notes [Section 1-4]
 
@@ -13,3 +13,10 @@ Pareto Superior Allocations | "Some allocations of material goods and services w
 Starting-gate Principles | "Principles specifying initial distributions after which the pattern need not be preserved" [[link]](https://plato.stanford.edu/entries/justice-distributive/)| | 
 Difference Principle | "Social and economic inequalities are to be to the greatest benefit of the least advantaged members of society." [[link]](https://plato.stanford.edu/entries/justice-distributive/)| | 
 Formal Equality of Opportunity | "... rules out formal discrimination on grounds such as a person’s race, ethnicity, age or gender" [[link]](https://plato.stanford.edu/entries/justice-distributive/)| | 
+
+**Talk (#3)**: [The Trouble with Bias](https://www.youtube.com/watch?v=ggzWIipKraM) by Kate Crawford (at NIPS 2017 on *Dec 18, 2017*)
+
+##### Notes
+
+* Harm of allocation (resources) -> loan approval, etc. -> immediate, quantifiable, transactional
+* Harms of representation (identity) -> ad delivery, google image labels, etc. -> long term, hard to formalize, cultural
