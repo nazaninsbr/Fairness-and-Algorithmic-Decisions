@@ -20,3 +20,7 @@ Formal Equality of Opportunity | "... rules out formal discrimination on grounds
 
 * Harm of allocation (resources) -> loan approval, etc. -> immediate, quantifiable, transactional
 * Harms of representation (identity) -> ad delivery, google image labels, etc. -> long term, hard to formalize, cultural
+
+**Paper (#4)**: Shah, Deven, H. Andrew Schwartz, and Dirk Hovy. "Predictive biases in natural language processing models: A conceptual framework and overview." arXiv preprint arXiv:1912.11078 (2019).
+
+**Article (#5)**: [People Don't Actually Want Equality](https://www.theatlantic.com/science/archive/2015/10/people-dont-actually-want-equality/411784/) By Paul Bloom (published on *Oct 22, 2015*)
