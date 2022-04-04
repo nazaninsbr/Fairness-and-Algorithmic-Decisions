@@ -12,3 +12,4 @@ Strict Egalitarianism | "Every person should have the same level of material goo
 Pareto Superior Allocations | "Some allocations of material goods and services which will make some people better off without making anybody else worse off." [[link]](https://plato.stanford.edu/entries/justice-distributive/)| | 
 Starting-gate Principles | "Principles specifying initial distributions after which the pattern need not be preserved" [[link]](https://plato.stanford.edu/entries/justice-distributive/)| | 
 Difference Principle | "Social and economic inequalities are to be to the greatest benefit of the least advantaged members of society." [[link]](https://plato.stanford.edu/entries/justice-distributive/)| | 
+Formal Equality of Opportunity | "... rules out formal discrimination on grounds such as a person’s race, ethnicity, age or gender" [[link]](https://plato.stanford.edu/entries/justice-distributive/)| | 
